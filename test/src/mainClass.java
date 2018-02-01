@@ -3,6 +3,6 @@
  */
 public class mainClass {
     public static void main(System[] args){
-        
+
     }
 }
