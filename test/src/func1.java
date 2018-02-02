@@ -7,4 +7,7 @@ public class func1 {
         System.out.println("完善方法1.1");
         System.out.println("完善方法1.2");
     }
+    public static void func1_1(){
+        System.out.println("这是方法1_1");
+    }
 }
